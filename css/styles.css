@@ -1,0 +1,61 @@
+h1{
+  text-align: center;
+  font-style: normal;
+  font-weight: bold;
+}
+
+img{
+  float: right;
+  width: 40%;
+  clear: left;
+  margin: 0 0 0 20px
+}
+
+p.one {
+  background-color: skyblue;
+  color: white;
+  font-family: fantasy;
+  font-size: 20px;
+  padding: 45px;
+  margin: 0;
+  text-align: left;
+}
+
+div.image {
+  float: left;
+  width: 100%;
+  margin: 0 0 0 0px
+}
+
+p.two {
+  background-color: limegreen;
+  color: white;
+  font-family: fantasy;
+  font-size: 25px;
+  padding: 100px;
+  margin: 0;
+  text-align: right;
+}
+
+p.three{
+  background-color: pink;
+  color: white;
+  font-family: fantasy;
+  font-size: 25px;
+  padding: 100px;
+  margin: 0;
+}
+
+h3{
+  background-color: purple;
+  color: white;
+  font-family: cursive;
+  text-align: center;
+  font-size: 25px;
+  padding: 70px;
+  margin: 0;
+}
+
+a{
+color: white;
+}
