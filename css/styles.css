@@ -4,11 +4,11 @@ h1{
   font-weight: bold;
 }
 
-img{
+img.onet{
   float: right;
   width: 40%;
   clear: left;
-  margin: 0 0 0 20px
+  margin: 0 0 0 20px;
 }
 
 p.one {
@@ -21,20 +21,21 @@ p.one {
   text-align: left;
 }
 
-div.image {
-  float: left;
-  width: 100%;
-  margin: 0 0 0 0px
+img.twot {
+  float:left;
+  width: 45%;
+  margin: 0 70px 20px 0;
 }
 
 p.two {
   background-color: limegreen;
   color: white;
+  font-style: italic;
   font-family: fantasy;
-  font-size: 25px;
-  padding: 100px;
+  font-size: 20px;
+  padding: 91.6px;
   margin: 0;
-  text-align: right;
+  text-align: left;
 }
 
 p.three{
